@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/create_event_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Create Event" />
+
+</LinearLayout>
+
+    <!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:orientation="vertical">-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/summary_edittext"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:hint="Event Summary" />-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/location_edittext"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:hint="Event Location" />-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/description_edittext"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:hint="Event Description" />-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/start_time_edittext"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:hint="Start Time (YYYY-MM-DD HH:MM:SS)" />-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/end_time_edittext"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:hint="End Time (YYYY-MM-DD HH:MM:SS)" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/create_event_button"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:onClick="createEvent"-->
+<!--        android:text="Create Event" />-->
+
+<!--</LinearLayout>-->
+
